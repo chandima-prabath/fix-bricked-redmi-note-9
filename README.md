@@ -23,7 +23,7 @@ Before you begin, make sure you have the following:
 ### Step 1: Prepare the Required Files
 
 1. Download Python from the official website and install it. During installation, select the "Add Python to PATH" option. To verify the installation, open Command Prompt and type `python` or `py`. You should see the Python version.
-2. Download the official Xiaomi fastboot image for Redmi Note 9 from the [official Xiaomi website](https://www.miui.com/download.html). Choose your version (e.g., "merlin_images....tgz") and download the "Full ROM" file.
+2. Download the official Xiaomi fastboot image for Redmi Note 9 from this [website]([https://www.miui.com/download.html](https://xiaomifirmwareupdater.com/archive/miui/merlin/)). Choose your version (e.g., "merlin_images....tgz") and download the "Full ROM" file.
 3. Download the zip file containing MTK Drivers, SP Flash Tool, and additional scripts from the provided [Google Drive link](https://drive.google.com/file/d/1aSQ58gKY93bpcclFCxndSpKeE3pnE3qm/view?usp=sharing).
 
 ### Step 2: Battery Drain
