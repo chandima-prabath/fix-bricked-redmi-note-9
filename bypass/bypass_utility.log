@@ -1,0 +1,12 @@
+[2021-10-12 00:24:02.275544] Waiting for device
+[2021-10-12 00:24:54.439222] Found port = COM3
+[2021-10-12 00:24:54.456427] Device hw code: 0x707
+[2021-10-12 00:24:54.456427] Device hw sub code: 0x8a00
+[2021-10-12 00:24:54.456427] Device hw version: 0xca00
+[2021-10-12 00:24:54.456427] Device sw version: 0x0
+[2021-10-12 00:24:54.457409] Device secure boot: True
+[2021-10-12 00:24:54.457409] Device serial link authorization: True
+[2021-10-12 00:24:54.457409] Device download agent authorization: True
+[2021-10-12 00:24:54.457409] Disabling watchdog timer
+[2021-10-12 00:24:54.458406] Disabling protection
+[2021-10-12 00:24:54.481344] Protection disabled
