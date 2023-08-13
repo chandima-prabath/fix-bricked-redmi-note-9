@@ -35,3 +35,5 @@ This is tested by me, and it works as long as you follow the steps carefully and
     Disconnect your device from your computer and press the power buttonto start your phone, connect it to a charger or back to the computer since there was no charge so it won't die suddenly now.
     Your phone now should boot normally showing the MIUI logo, because its first boot it would take few minutes for the phone to boot, wait patiently and you would see the "first setup" screen.
     That's it! You successfully brought back to life a hard-bricked Redmi Note 9 (merlin). A huge weight now has lifted from you :) hf.
+
+Download zip file from google drive: https://drive.google.com/file/d/1aSQ58gKY93bpcclFCxndSpKeE3pnE3qm/view?usp=sharing
